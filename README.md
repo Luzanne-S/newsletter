@@ -1,6 +1,6 @@
 # weCook Newsletter
 
-![](/wecook.jpg)
+![](wecook.jpg)
 
 This email template is a mimic of Ucook's email newsletter.
 
